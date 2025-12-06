@@ -9,5 +9,5 @@
 Thumbs.db
 .vscode/
 
-# Pliki zapisu gry (nie chcemy ich w repozytorium)
+# Pliki zapisu gry
 rekord.txt
