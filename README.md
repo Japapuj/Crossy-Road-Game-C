@@ -28,6 +28,8 @@ Projekt został zrealizowany w celu pogłębienia wiedzy z zakresu inżynierii o
    ```bash
    sudo apt-get install libncurses5-dev libncursesw5-dev
 2. Skompiluj projekt:
+   ```bash
     g++ main.cpp -o crossyroad -lncurses
 3. Uruchom grę:
+   ```bash
     ./crossyroad
