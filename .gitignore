@@ -1,0 +1,13 @@
+# Skompilowane pliki
+*.exe
+*.o
+*.out
+*.app
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Pliki zapisu gry (nie chcemy ich w repozytorium)
+rekord.txt
