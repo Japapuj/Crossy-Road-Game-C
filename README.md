@@ -33,5 +33,5 @@ Projekt został zrealizowany w celu pogłębienia wiedzy z zakresu inżynierii o
 3. Uruchom grę:
    ```bash
     ./crossyroad
-``
+
 Autor: Dominik Szwed Student Informatyki, Politechnika Gdańska
